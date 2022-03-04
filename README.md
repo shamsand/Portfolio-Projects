@@ -1,3 +1,3 @@
-# PortfolioProject
+# PortfolioProjects
 
-Covid stats utilized in SQL and visualized in Tableau 
+These are the individual projects I have worked on 
