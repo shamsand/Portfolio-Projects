@@ -2,8 +2,12 @@
 
 These are some of the favorite projects I've worked on
 
-ShirtStore is the first project I did in SQL and then Visualized with Tableau
+ShirtStore is the first project I completed with SQL and then Visualized with Tableau
 
-CovidStats is the second project I did in SQL and then Visualized in Tableau
+CovidStats was also completed with SQL and then Visualized in Tableau
+
+CleaningHousingData was done with SQL
+
+
 
 My Tableau Public link is https://public.tableau.com/app/profile/shannon.sanders1491
